@@ -1,4 +1,5 @@
-# 🎨 數位園藝師的程式實驗室 | Digital Alchemist's Lab 🌿🤖
+# HI there~
+<img width="282" height="282" alt="image" src="https://github.com/user-attachments/assets/ac44f2a6-768d-40f4-b701-1116e0de75e8" />
 
 ### 📖 關於我 | About Me
 我是一位穿梭在溫室與實驗室之間的雙主修學生（園藝系 & 資工系）。
